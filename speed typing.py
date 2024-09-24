@@ -48,3 +48,4 @@ def typing_test(script, time_limit):
 script_to_type = 'Returns the number of times the specified element appears in the list. Example. # create a list numbers'
 time_limit_in_seconds = 10
 typing_test(script_to_type, time_limit_in_seconds)
+
